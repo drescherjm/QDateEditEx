@@ -1,6 +1,7 @@
 TEMPLATE = lib
 TARGET = qdateeditex
 
+QT += widgets
 CONFIG += STATIC
 DEFINES += WIDGETS_LIBRARY
 
